@@ -1,0 +1,10 @@
+{
+    "name": "nckh/nghiep-vu-giang-vien",
+    "description": "none",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.1",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}

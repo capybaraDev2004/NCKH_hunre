@@ -1,0 +1,1859 @@
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [2.1_dang_tin_khoa] => 
+                )
+
+            [full_path] => Array
+                (
+                    [2.1_dang_tin_khoa] => 
+                )
+
+            [type] => Array
+                (
+                    [2.1_dang_tin_khoa] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [2.1_dang_tin_khoa] => 
+                )
+
+            [error] => Array
+                (
+                    [2.1_dang_tin_khoa] => 4
+                )
+
+            [size] => Array
+                (
+                    [2.1_dang_tin_khoa] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 4
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 4
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 4
+                    [5.5_uy_vien_ban_nu_cong_truong] => 4
+                    [5.6_to_truong_to_nu_cong] => 4
+                    [5.7_uy_vien_bch_doan_truong] => 4
+                    [5.7_pho_bi_thu_lien_chi] => 4
+                    [5.7_uy_vien_bch_lien_chi] => 4
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 4
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 4
+                    [8_thanh_vien_hoi_dong_du_gio] => 4
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 0
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 0
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 0
+                    [5.5_uy_vien_ban_nu_cong_truong] => 0
+                    [5.6_to_truong_to_nu_cong] => 0
+                    [5.7_uy_vien_bch_doan_truong] => 0
+                    [5.7_pho_bi_thu_lien_chi] => 0
+                    [5.7_uy_vien_bch_lien_chi] => 0
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 0
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 0
+                    [8_thanh_vien_hoi_dong_du_gio] => 0
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 4
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 4
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 4
+                    [5.5_uy_vien_ban_nu_cong_truong] => 4
+                    [5.6_to_truong_to_nu_cong] => 4
+                    [5.7_uy_vien_bch_doan_truong] => 4
+                    [5.7_pho_bi_thu_lien_chi] => 4
+                    [5.7_uy_vien_bch_lien_chi] => 4
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 4
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 4
+                    [8_thanh_vien_hoi_dong_du_gio] => 4
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 0
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 0
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 0
+                    [5.5_uy_vien_ban_nu_cong_truong] => 0
+                    [5.6_to_truong_to_nu_cong] => 0
+                    [5.7_uy_vien_bch_doan_truong] => 0
+                    [5.7_pho_bi_thu_lien_chi] => 0
+                    [5.7_uy_vien_bch_lien_chi] => 0
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 0
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 0
+                    [8_thanh_vien_hoi_dong_du_gio] => 0
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 4
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 4
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 4
+                    [5.5_uy_vien_ban_nu_cong_truong] => 4
+                    [5.6_to_truong_to_nu_cong] => 4
+                    [5.7_uy_vien_bch_doan_truong] => 4
+                    [5.7_pho_bi_thu_lien_chi] => 4
+                    [5.7_uy_vien_bch_lien_chi] => 4
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 4
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 4
+                    [8_thanh_vien_hoi_dong_du_gio] => 4
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 0
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 0
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 0
+                    [5.5_uy_vien_ban_nu_cong_truong] => 0
+                    [5.6_to_truong_to_nu_cong] => 0
+                    [5.7_uy_vien_bch_doan_truong] => 0
+                    [5.7_pho_bi_thu_lien_chi] => 0
+                    [5.7_uy_vien_bch_lien_chi] => 0
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 0
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 0
+                    [8_thanh_vien_hoi_dong_du_gio] => 0
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => 
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 4
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 4
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 4
+                    [5.5_uy_vien_ban_nu_cong_truong] => 4
+                    [5.6_to_truong_to_nu_cong] => 4
+                    [5.7_uy_vien_bch_doan_truong] => 4
+                    [5.7_pho_bi_thu_lien_chi] => 4
+                    [5.7_uy_vien_bch_lien_chi] => 4
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 4
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 4
+                    [8_thanh_vien_hoi_dong_du_gio] => 4
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 0
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 0
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 0
+                    [5.5_uy_vien_ban_nu_cong_truong] => 0
+                    [5.6_to_truong_to_nu_cong] => 0
+                    [5.7_uy_vien_bch_doan_truong] => 0
+                    [5.7_pho_bi_thu_lien_chi] => 0
+                    [5.7_uy_vien_bch_lien_chi] => 0
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 0
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 0
+                    [8_thanh_vien_hoi_dong_du_gio] => 0
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => image_3.jpg
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => image_3.jpg
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => image/jpeg
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => C:\xampp\tmp\php8BE6.tmp
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 4
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 4
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 4
+                    [5.5_uy_vien_ban_nu_cong_truong] => 4
+                    [5.6_to_truong_to_nu_cong] => 0
+                    [5.7_uy_vien_bch_doan_truong] => 4
+                    [5.7_pho_bi_thu_lien_chi] => 4
+                    [5.7_uy_vien_bch_lien_chi] => 4
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 4
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 4
+                    [8_thanh_vien_hoi_dong_du_gio] => 4
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 0
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 0
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 0
+                    [5.5_uy_vien_ban_nu_cong_truong] => 0
+                    [5.6_to_truong_to_nu_cong] => 1945591
+                    [5.7_uy_vien_bch_doan_truong] => 0
+                    [5.7_pho_bi_thu_lien_chi] => 0
+                    [5.7_uy_vien_bch_lien_chi] => 0
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 0
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 0
+                    [8_thanh_vien_hoi_dong_du_gio] => 0
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [evidence] => Array
+        (
+            [name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => image_3.jpg
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [full_path] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => image_3.jpg
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [type] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => image/jpeg
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 
+                    [2_uy_vien_hoi_dong_khoa] => 
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 
+                    [5.2_chi_bo_duoi_20_dang_vien] => 
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 
+                    [5.5_uy_vien_ban_nu_cong_truong] => 
+                    [5.6_to_truong_to_nu_cong] => C:\xampp\tmp\phpD19A.tmp
+                    [5.7_uy_vien_bch_doan_truong] => 
+                    [5.7_pho_bi_thu_lien_chi] => 
+                    [5.7_uy_vien_bch_lien_chi] => 
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 
+                    [8_thanh_vien_hoi_dong_du_gio] => 
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 
+                )
+
+            [error] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 4
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 4
+                    [2_uy_vien_hoi_dong_khoa] => 4
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 4
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 4
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 4
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 4
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 4
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 4
+                    [5.2_chi_bo_duoi_20_dang_vien] => 4
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 4
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 4
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 4
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 4
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 4
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 4
+                    [5.5_uy_vien_ban_nu_cong_truong] => 4
+                    [5.6_to_truong_to_nu_cong] => 0
+                    [5.7_uy_vien_bch_doan_truong] => 4
+                    [5.7_pho_bi_thu_lien_chi] => 4
+                    [5.7_uy_vien_bch_lien_chi] => 4
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 4
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 4
+                    [8_thanh_vien_hoi_dong_du_gio] => 4
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 4
+                )
+
+            [size] => Array
+                (
+                    [1_chu_tich_thu_ky_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [1_uy_vien_hoi_dong_khoa_hoc_dao_tao] => 0
+                    [2_chu_tich_thu_ky_hoi_dong_khoa] => 0
+                    [2_uy_vien_hoi_dong_khoa] => 0
+                    [3_chu_tich_thu_ky_hoi_dong_dam_bao_chat_luong] => 0
+                    [3_uy_vien_hoi_dong_dam_bao_chat_luong] => 0
+                    [4_chu_tich_pho_chu_tich_hoi_dong_danh_gia_ctdt] => 0
+                    [4_thu_ky_hoi_dong_danh_gia_ctdt] => 0
+                    [4_uy_vien_hoi_dong_danh_gia_ctdt] => 0
+                    [5.1_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_pho_chu_nhiem_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.1_uy_vien_uy_ban_kiem_tra_dang_uy_truong] => 0
+                    [5.2_chi_bo_duoi_20_dang_vien] => 0
+                    [5.2_chi_bo_20_dang_vien_tro_len] => 0
+                    [5.2_chi_bo_40_dang_vien_tro_len] => 0
+                    [5.3_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_pho_chu_nhiem_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.3_uy_vien_uy_ban_kiem_tra_cong_doan_truong] => 0
+                    [5.4_pho_chu_nhiem_ban_thanh_tra_nhan_dan] => 0
+                    [5.4_uy_vien_ban_thanh_tra_nhan_dan] => 0
+                    [5.5_pho_chu_nhiem_ban_nu_cong_truong] => 0
+                    [5.5_uy_vien_ban_nu_cong_truong] => 0
+                    [5.6_to_truong_to_nu_cong] => 1945591
+                    [5.7_uy_vien_bch_doan_truong] => 0
+                    [5.7_pho_bi_thu_lien_chi] => 0
+                    [5.7_uy_vien_bch_lien_chi] => 0
+                    [6_tham_gia_hoi_dong_tuyen_dung_hop_dong_lao_dong] => 0
+                    [7_tham_gia_ban_phong_chay_chua_chay_truong] => 0
+                    [8_thanh_vien_hoi_dong_du_gio] => 0
+                    [9_uy_vien_bch_hoi_cuu_chien_binh_truong] => 0
+                )
+
+        )
+
+)

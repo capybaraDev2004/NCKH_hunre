@@ -1,0 +1,186 @@
+/* Kiểu dáng cho nội dung chính */
+.main-content {
+    flex: 1;
+    padding: 20px;
+    margin: 0;
+}
+
+.research-form {
+    padding: 20px;
+}
+
+.form-title {
+    color: #223771;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Kiểu dáng cho bảng */
+.teaching-registration-table {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.teaching-registration-table th,
+.teaching-registration-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #d2ddfd;
+}
+
+.teaching-registration-table th {
+    background-color: #223771;
+    color: white;
+    font-weight: 500;
+}
+
+.teaching-registration-table td {
+    font-size: 14px;
+}
+
+/* Điều chỉnh width của các cột */
+.teaching-registration-table th:nth-child(1),
+.teaching-registration-table td:nth-child(1) {
+    width: 4%;
+}
+
+/* STT */
+.teaching-registration-table th:nth-child(2),
+.teaching-registration-table td:nth-child(2) {
+    width: 40%;
+}
+
+/* Nội dung */
+.teaching-registration-table th:nth-child(3),
+.teaching-registration-table td:nth-child(3) {
+    width: 8%;
+}
+
+/* Tham gia */
+.teaching-registration-table th:nth-child(4),
+.teaching-registration-table td:nth-child(4) {
+    width: 8%;
+}
+
+/* Số lượng */
+.teaching-registration-table th:nth-child(5),
+.teaching-registration-table td:nth-child(5) {
+    width: 13%;
+}
+
+/* Giờ làm việc */
+.teaching-registration-table th:nth-child(6),
+.teaching-registration-table td:nth-child(6) {
+    width: 13%;
+}
+
+/* Thống kê */
+.teaching-registration-table th:nth-child(7),
+.teaching-registration-table td:nth-child(7) {
+    width: 14%;
+    text-align: center;
+}
+
+/* Minh chứng */
+
+/* Kiểu dáng cho tiêu đề phụ */
+.sub-title {
+    font-style: italic;
+    font-weight: bold;
+    background-color: #f0f4ff;
+    text-align: left;
+}
+
+/* Kiểu dáng cho tiêu đề mục lớn */
+.task-group {
+    background-color: #f0f4ff;
+    font-weight: bold;
+}
+
+/* Kiểu dáng cho cột checkbox */
+.checkbox-column {
+    text-align: center;
+    width: 60px;
+}
+
+/* Kiểu dáng cho cột số lượng */
+.quantity-column {
+    text-align: center;
+    width: 80px;
+}
+
+/* Kiểu dáng cho cột minh chứng */
+.evidence-input {
+    width: 100%;
+    font-size: 12px;
+    padding: 2px;
+}
+
+.evidence-cell {
+    padding: 5px;
+}
+
+/* Ẩn các dòng con ban đầu */
+.sub-task {
+    display: none;
+}
+
+/* Làm nhạt cột "Giờ làm việc" và "Thống kê số giờ" */
+.faded {
+    opacity: 0.3;
+    transition: opacity 0.3s ease;
+}
+
+/* Kiểu dáng cho nút hành động */
+.form-actions {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.submit-btn,
+.reset-btn {
+    padding: 12px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn {
+    background-color: #223771;
+    color: white;
+}
+
+.submit-btn:hover {
+    background-color: #f8843d;
+}
+
+.reset-btn {
+    background-color: #6c757d;
+    color: white;
+}
+
+.reset-btn:hover {
+    background-color: #495057;
+}
+
+/* Kiểu dáng cho thông báo */
+.message {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.message.success {
+    background-color: #d4edda;
+    color: #155724;
+}

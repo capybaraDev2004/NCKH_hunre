@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    padding: 0;
+    height: 50px;
+    display: flex;
+    justify-content: space-between; /* Giữ nguyên để phân bố không gian */
+    align-items: center;
+}
+
+.nav {
+    width: 100%; /* Đảm bảo nav chiếm toàn bộ chiều rộng */
+    display: flex;
+    justify-content: center; /* Căn giữa các nav items */
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: -200px;
+}
+
+.nav .nav-item {
+    display: inline-block;
+    margin: 0 15px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.nav-item:hover a {
+    background-color: #555;
+    border-radius: 5px;
+    color: #0a58ca;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    padding: 0 15px;
+    height: 100%;
+    line-height: inherit;
+}
+
+.account-settings {
+    position: absolute; /* Đặt vị trí tuyệt đối để đưa sang phải */
+    right: 300px; /* Khoảng cách từ mép phải */
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    height: 50px;
+    line-height: 50px;
+}
+
+.account-icon {
+    margin-right: 5px;
+}
+
+.account-name {
+    color: white;
+    font-weight: bold;
+}
+
+.account-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 40;
+    background-color: white;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    width: 180px;
+}
+
+.account-settings:hover .account-menu {
+    display: block;
+}
+
+.account-menu-item {
+    color: black;
+    padding: 0 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.account-menu-item:hover {
+    background-color: #ddd;
+}
+
+.main {
+    padding: 20px;
+}
+
+.main-title {
+    font-size: 24px;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-text {
+    margin: 0;
+}

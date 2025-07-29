@@ -1,0 +1,648 @@
+#navbarToggleExternalContent {
+    max-height: 360px;
+    overflow: auto;
+    background-color: #e3f2fd;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 15px;
+    right: 25px;
+    display: none;
+}
+
+#main-table {
+    width: 100%;
+    max-width: 90rem;
+    min-height: 40rem;
+    /* height: 20rem; */
+
+    display: block;
+    overflow-x: auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 20px auto;
+}
+
+.table-tkbhp {
+    width: 100%;
+    max-width: 90rem;
+    display: block;
+    overflow-x: auto;
+    /* width: 100%; */
+    /* max-width: 1169.6px; */
+    /* height: 616.8px; */
+    /* display: block; */
+    font-size: 1em;
+    /* display: table-row; */
+    border-collapse: collapse;
+    border-color: inherit;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 20px 0;
+}
+
+.end-body-end {
+    padding: 30px 40px 40px;
+    margin: 20px auto;
+    max-width: 90rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Container cho các nút điều hướng */
+.end-body-end .action-buttons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+/* Style cho nút tạo thời khóa biểu */
+.end-body-end .create-schedule-btn {
+    background: linear-gradient(135deg, #2ecc71, #27ae60);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border: none;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(46, 204, 113, 0.2);
+    text-decoration: none;
+}
+
+.end-body-end .create-schedule-btn:hover {
+    background: linear-gradient(135deg, #27ae60, #219a52);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(46, 204, 113, 0.3);
+}
+
+/* Container cho các nút utility */
+.end-body-end .utility-buttons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 20px 0;
+    gap: 15px;
+}
+
+/* Style cho form upload Excel */
+.end-body-end .uploadExcel {
+    margin-bottom: 25px;
+    padding: 10px;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+    width: fit-content;
+}
+
+.end-body-end .uploadExcel form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: nowrap;
+}
+
+.end-body-end .uploadExcel label {
+    font-weight: 500;
+    color: #495057;
+    white-space: nowrap;
+    margin: 0;
+}
+
+.end-body-end .uploadExcel input[type="file"] {
+    padding: 6px 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    width: auto;
+}
+
+.end-body-end .uploadExcel button {
+    padding: 6px 12px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    margin: 0;
+}
+
+/* Style chung cho cả hai nút utility */
+.end-body-end .pdf-to-excel-btn,
+.end-body-end .btn-danger {
+    padding: 8px 16px;
+    min-width: 180px;
+}
+
+/* Style cho nút chuyển PDF sang Excel */
+.end-body-end .pdf-to-excel-btn {
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    border: none;
+    box-shadow: 0 2px 4px rgba(52, 152, 219, 0.2);
+}
+
+.end-body-end .pdf-to-excel-btn:hover {
+    background: linear-gradient(135deg, #2980b9, #2472a4);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
+    color: white;
+}
+
+/* Style cho nút xóa dữ liệu */
+.end-body-end .btn-danger {
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+    border: none;
+    box-shadow: 0 2px 4px rgba(231, 76, 60, 0.2);
+}
+
+.end-body-end .btn-danger:hover {
+    background: linear-gradient(135deg, #c0392b, #a93226);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(231, 76, 60, 0.3);
+}
+
+.end-body-end .uploadExcel {
+    margin-bottom: 25px;
+    padding: 15px;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+}
+
+.end-body-end .uploadExcel form {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.end-body-end .uploadExcel label {
+    font-weight: 500;
+    color: #495057;
+}
+
+.end-body-end .uploadExcel input[type="file"] {
+    padding: 8px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+.end-body-end .uploadExcel button,
+.end-body-end a button {
+    padding: 8px 16px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.end-body-end .uploadExcel button:hover,
+.end-body-end a button:hover {
+    background-color: #0b5ed7;
+}
+
+.end-body-end #deleteForm {
+    margin: 20px 0;
+}
+
+.end-body-end a {
+    display: inline-block;
+    margin: 10px 10px 10px 0;
+    text-decoration: none;
+}
+
+.end-body-end a:last-child {
+    color: #0d6efd;
+    text-decoration: underline;
+}
+
+/* tkb table */
+td[name="cell-monhocINtkb"] {
+    background-color: rgb(255, 253, 145);
+}
+
+th[name="cell-thutiet"] {
+    vertical-align: middle;
+    width: 10%;
+}
+
+th[name="cell-thu"] {
+    vertical-align: middle;
+}
+
+/* table */
+th[name="cell-Chon"] {
+    vertical-align: middle;
+    width: 2%
+}
+
+input[name="cell-STT"] {
+    max-width: 2rem;
+}
+
+th[name="cell-STT"] {
+    width: 2%
+}
+
+input[name="cell-MaMH"] {
+    max-width: 5rem;
+}
+
+th[name="cell-MaMH"] {
+    width: 8%
+}
+
+input[name="cell-MaLop"] {
+    max-width: 9rem;
+}
+
+th[name="cell-MaLop"] {
+    width: 8%
+}
+
+input[name="cell-TenMH"] {
+    max-width: 15rem;
+}
+
+th[name="cell-TenMH"] {
+    width: 20%
+}
+
+/* input[name="cell-MaGV"] {
+    max-width: 9rem;
+  } */
+th[name="cell-MaGV"] {
+    width: 4%
+}
+
+input[name="cell-TenGV"] {
+    max-width: 9rem;
+}
+
+th[name="cell-TenGV"] {
+    width: 17%
+}
+
+
+input[name="cell-SiSo"] {
+    max-width: 3rem;
+}
+
+th[name="cell-SiSo"] {
+    width: 4%
+}
+
+input[name="cell-SiSo"] {
+    max-width: 3rem;
+}
+
+th[name="cell-SiSo"] {
+    width: 4%
+}
+
+input[name="cell-SoTc"] {
+    max-width: 1.4rem;
+}
+
+th[name="cell-SoTc"] {
+    width: 1%
+}
+
+input[name="cell-ThucHanh"] {
+    max-width: 1rem;
+}
+
+th[name="cell-ThucHanh"] {
+    width: 1%
+}
+
+input[name="cell-HTGD"] {
+    max-width: 3rem;
+}
+
+th[name="cell-HTGD"] {
+    width: 3%
+}
+
+input[name="cell-Thu"] {
+    max-width: 1.5rem;
+}
+
+th[name="cell-Thu"] {
+    width: 1%
+}
+
+input[name="cell-Tiet"] {
+    max-width: 3rem;
+}
+
+th[name="cell-Tiet"] {
+    width: 3%
+}
+
+
+
+input[name="cell-PhongHoc"] {
+    max-width: 3rem;
+}
+
+th[name="cell-PhongHoc"] {
+    width: 3%
+}
+
+input[name="cell-KhoaHoc"] {
+    max-width: 1.4rem;
+}
+
+th[name="cell-KhoaHoc"] {
+    width: 1%
+}
+
+input[name="cell-HocKy"] {
+    max-width: 1.5rem;
+}
+
+th[name="cell-HocKy"] {
+    width: 1%
+}
+
+input[name="cell-NamHoc"] {
+    max-width: 3rem;
+}
+
+th[name="cell-NamHoc"] {
+    width: 4%
+}
+
+
+
+input[name="cell-KhoaQL"] {
+    max-width: 4rem;
+}
+
+th[name="cell-KhoaQL"] {
+    width: 4%
+}
+
+input[name="cell-NBD"] {
+    max-width: 6rem;
+}
+
+th[name="cell-NBD"] {
+    width: 10%
+}
+
+input[name="cell-NKT"] {
+    max-width: 6rem;
+}
+
+th[name="cell-NKT"] {
+    width: 10%
+}
+
+input[name="cell-GhiChu"] {
+    max-width: 2rem;
+}
+
+th[name="cell-GhiChu"] {
+    width: 4%
+}
+
+/* Styling cho phần bộ lọc */
+#ListLoc {
+    margin: 20px auto;
+    max-width: 90rem;
+}
+
+#ListLoc .card {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #dee2e6;
+}
+
+#ListLoc .btn-group-sm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#ListLoc .form-check-label {
+    margin-right: 15px;
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+#ListLoc .form-check-input {
+    margin-right: 5px;
+}
+
+/* Styling cho bảng chính */
+#main-table thead {
+    background-color: #f8f9fa;
+}
+
+#main-table th {
+    padding: 15px 10px;
+    font-weight: 600;
+    color: #495057;
+    border-bottom: 2px solid #dee2e6;
+}
+
+#main-table td {
+    padding: 12px 10px;
+    vertical-align: middle;
+}
+
+#main-table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+/* Styling cho nút ẩn/hiện */
+.btn-primary.btn-sm {
+    background-color: #0d6efd;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.btn-primary.btn-sm:hover {
+    background-color: #0b5ed7;
+    transform: translateY(-1px);
+}
+
+/* Styling cho tiêu đề */
+h1 {
+    color: #1a73e8;
+    font-weight: 700;
+    margin: 30px 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+h1::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    height: 4px;
+    background: linear-gradient(to right, #1a73e8, #8ab4f8);
+    border-radius: 2px;
+}
+
+/* Styling cho bảng thời khóa biểu */
+.table-tkbhp thead {
+    background-color: #f8f9fa;
+}
+
+.table-tkbhp th {
+    padding: 12px;
+    font-weight: 600;
+    color: #495057;
+    border: 1px solid #dee2e6;
+}
+
+.table-tkbhp td {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+}
+
+/* Styling cho container chứa bảng thời khóa biểu */
+#box-table-tkbhp {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Styling cho nút ẩn/hiện bảng thời khóa biểu */
+.btn-warning.btn-sm {
+    background-color: #ffc107;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.btn-warning.btn-sm:hover {
+    background-color: #ffca2c;
+    transform: translateY(-1px);
+}
+
+/* Thêm transition cho việc ẩn/hiện cột */
+#main-table th,
+#main-table td {
+    transition: all 0.3s ease;
+}
+
+/* Đảm bảo các cột ẩn không chiếm không gian */
+#main-table th[style*="display: none"],
+#main-table td[style*="display: none"] {
+    padding: 0;
+    border: 0;
+    width: 0;
+}
+
+/* Styling cho container chứa tiêu đề và nút lọc */
+[name="container-body"] {
+    padding: 20px;
+    max-width: 90rem;
+    margin: 0 auto;
+}
+
+/* Container cho nút ẩn/hiện lọc */
+[name="container-body"] > div > p {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+}
+
+/* Styling cho nút ẩn/hiện lọc */
+.btn-primary.btn-sm[data-bs-toggle="collapse"] {
+    background: #ffffff;
+    border: 2px solid #1a73e8;
+    padding: 8px 20px;
+    border-radius: 25px;
+    font-weight: 500;
+    color: #1a73e8;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s ease;
+    font-size: 0.95rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.btn-primary.btn-sm[data-bs-toggle="collapse"]:hover {
+    background: #1a73e8;
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(26, 115, 232, 0.2);
+}
+
+.btn-primary.btn-sm[data-bs-toggle="collapse"]:active {
+    transform: translateY(0);
+}
+
+/* Animation cho collapse */
+.collapse {
+    transition: all 0.3s ease-in-out;
+}
+
+.collapse.show {
+    animation: slideDown 0.3s ease-out forwards;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Thêm style cho cột Sắp xếp */
+th[name="cell-SapXep"] {
+    width: 2%;
+    text-align: center;
+}
+
+td[name="cell-SapXep"] {
+    text-align: center;
+    font-weight: 500;
+    color: #1a73e8;
+}
+
+/* Cập nhật transition cho cột mới */
+#main-table th[name="cell-SapXep"],
+#main-table td[name="cell-SapXep"] {
+    transition: all 0.3s ease;
+}
+
+/* Đảm bảo cột ẩn không chiếm không gian */
+#main-table th[name="cell-SapXep"][style*="display: none"],
+#main-table td[name="cell-SapXep"][style*="display: none"] {
+    padding: 0;
+    border: 0;
+    width: 0;
+}

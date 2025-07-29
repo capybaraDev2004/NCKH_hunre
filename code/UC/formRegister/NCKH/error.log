@@ -1,0 +1,323 @@
+[20-May-2025 18:28:21 Europe/Berlin] PHP Warning:  Undefined array key "noi_dung" in C:\xampp\htdocs\nckh_more\Nghiepvugiangvien\code\UC\formRegister\NCKH\add_hdsv.php on line 28
+[20-May-2025 18:28:21 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\nckh_more\Nghiepvugiangvien\code\UC\formRegister\NCKH\add_hdsv.php on line 28
+[20-May-2025 18:29:49 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 1
+    [so_tac_gia] => 2
+    [thanh_vien] => Array
+        (
+            [0] => 1
+            [1] => 4
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 50
+            [1] => 50
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => Tác giả
+            [1] => Tác giả
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[20-May-2025 18:29:49 Europe/Berlin] Type: huongdansv
+[20-May-2025 18:29:49 Europe/Berlin] ID: 1
+[20-May-2025 18:29:49 Europe/Berlin] Selected Year: 2025
+[20-May-2025 18:29:53 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 1
+    [so_tac_gia] => 2
+    [thanh_vien] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 50
+            [1] => 50
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => Tác giả
+            [1] => Tác giả
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[20-May-2025 18:29:53 Europe/Berlin] Type: huongdansv
+[20-May-2025 18:29:53 Europe/Berlin] ID: 1
+[20-May-2025 18:29:53 Europe/Berlin] Selected Year: 2025
+[20-May-2025 18:30:23 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 112312312321
+    [so_luong] => 1
+    [student_infor] => fghfghfghfghfghfg
+    [so_tac_gia] => 2
+    [thanh_vien] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 50
+            [1] => 50
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => Tác giả
+            [1] => Tác giả
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[20-May-2025 18:30:23 Europe/Berlin] Type: huongdansv
+[20-May-2025 18:30:23 Europe/Berlin] ID: 1
+[20-May-2025 18:30:23 Europe/Berlin] Selected Year: 2025
+[20-May-2025 18:35:49 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => bfghfgfg
+    [so_luong] => 1
+    [student_infor] => asdas + 12312312
+    [so_tac_gia] => 2
+    [thanh_vien] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 50
+            [1] => 50
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+            [1] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[20-May-2025 18:35:49 Europe/Berlin] Type: huongdansv
+[20-May-2025 18:35:49 Europe/Berlin] ID: 1
+[20-May-2025 18:35:49 Europe/Berlin] Selected Year: 2025
+[20-May-2025 18:37:25 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 12312321+cdvgbdfgfdgdf
+    [so_tac_gia] => 2
+    [thanh_vien] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 50
+            [1] => 50
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+            [1] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[20-May-2025 18:37:25 Europe/Berlin] Type: huongdansv
+[20-May-2025 18:37:25 Europe/Berlin] ID: 1
+[20-May-2025 18:37:25 Europe/Berlin] Selected Year: 2025
+[20-May-2025 18:37:25 Europe/Berlin] Student Info before insert: 12312321+cdvgbdfgfdgdf
+[20-May-2025 18:37:25 Europe/Berlin] Student Info before insert: 12312321+cdvgbdfgfdgdf
+[21-May-2025 16:59:23 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 123214
+    [so_tac_gia] => 1
+    [thanh_vien] => Array
+        (
+            [0] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 100
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[21-May-2025 16:59:23 Europe/Berlin] Type: huongdansv
+[21-May-2025 16:59:23 Europe/Berlin] ID: 1
+[21-May-2025 16:59:23 Europe/Berlin] Selected Year: 2025
+[21-May-2025 16:59:23 Europe/Berlin] Student Info before insert: 123214
+[21-May-2025 17:00:28 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 12321
+    [so_tac_gia] => 1
+    [thanh_vien] => Array
+        (
+            [0] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 100
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[21-May-2025 17:00:28 Europe/Berlin] Type: huongdansv
+[21-May-2025 17:00:28 Europe/Berlin] ID: 1
+[21-May-2025 17:00:28 Europe/Berlin] Selected Year: 2025
+[21-May-2025 17:00:28 Europe/Berlin] Student Info before insert: 12321
+[21-May-2025 17:02:13 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 12412521
+    [so_tac_gia] => 1
+    [thanh_vien] => Array
+        (
+            [0] => 23
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 100
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[21-May-2025 17:02:13 Europe/Berlin] Type: huongdansv
+[21-May-2025 17:02:13 Europe/Berlin] ID: 1
+[21-May-2025 17:02:13 Europe/Berlin] Selected Year: 2025
+[21-May-2025 17:02:15 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 12421421
+    [so_luong] => 1
+    [student_infor] => 12412521
+    [so_tac_gia] => 1
+    [thanh_vien] => Array
+        (
+            [0] => 23
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 100
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2025
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[21-May-2025 17:02:15 Europe/Berlin] Type: huongdansv
+[21-May-2025 17:02:15 Europe/Berlin] ID: 1
+[21-May-2025 17:02:15 Europe/Berlin] Selected Year: 2025
+[21-May-2025 17:02:15 Europe/Berlin] Student Info before insert: 12412521
+[21-May-2025 19:12:48 Europe/Berlin] POST data: Array
+(
+    [ten_san_pham] => 1
+    [so_luong] => 1
+    [student_infor] => 1
+    [so_tac_gia] => 1
+    [thanh_vien] => Array
+        (
+            [0] => 2
+        )
+
+    [phan_tram_dong_gop] => Array
+        (
+            [0] => 100
+        )
+
+    [role_thanh_vien] => Array
+        (
+            [0] => giảng viên hướng dẫn
+        )
+
+    [type] => huongdansv
+    [id] => 1
+    [selected_year_form] => 2024
+    [noi_dung] => Hướng dẫn sinh viên thực hiện đề tài NCKH được nghiệm thu
+)
+
+[21-May-2025 19:12:48 Europe/Berlin] Type: huongdansv
+[21-May-2025 19:12:48 Europe/Berlin] ID: 1
+[21-May-2025 19:12:48 Europe/Berlin] Selected Year: 2024
+[21-May-2025 19:12:48 Europe/Berlin] Student Info before insert: 1

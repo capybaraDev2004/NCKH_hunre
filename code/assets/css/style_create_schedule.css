@@ -1,0 +1,431 @@
+/* Reset mặc định */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e3e7ff;
+}
+
+/* Header */
+.header {
+    background-color: #333;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    margin: 0 15px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.account-settings {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.account-name {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+/* Container tổng */
+.container {
+    display: flex;
+    gap: 2rem;
+    padding: 20px;
+    max-width: 1400px;
+    margin: 60px auto 0;
+}
+
+/* Bảng thời khóa biểu */
+.schedule {
+    flex: 1;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar lịch */
+.sidebar {
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Điều hướng tháng */
+.calendar-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.calendar-box button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.calendar-days table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.calendar-days td {
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid lightgray;
+}
+
+.calendar-days td:hover {
+    background-color: lightblue;
+}
+
+.selected {
+    background-color: orange !important;
+    color: white;
+}
+
+/* Bảng thời gian */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+
+/* Định dạng bảng thời khóa biểu */
+.schedule table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    /* Cố định độ rộng cột */
+    border: 1px solid black;
+    /* Viền ngoài cho bảng */
+}
+
+/* Định dạng tiêu đề của bảng (Thứ, Ngày) */
+.schedule thead th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+    border: 1px solid black;
+    /* Viền đậm cho header */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Định dạng hàng giờ (cột đầu tiên) */
+.schedule tbody td:first-child,
+.schedule thead th:first-child {
+    font-weight: bold;
+    background-color: #f9f9f9;
+    border-right: 2px solid black;
+    /* Viền đậm để tách biệt */
+    text-align: center;
+    width: 80px;
+    /* Giữ cột giờ không quá rộng */
+}
+
+/* Kẻ đường dọc xuống hết bảng */
+.schedule tbody td {
+    border: 1px solid black;
+    /* Viền kẻ dọc cho từng ô */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Định dạng ô môn học */
+.schedule .subject {
+    background-color: white;
+    border: 2px solid black;
+    /* Viền đậm để nổi bật */
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Tô màu viền môn học theo nhóm */
+.subject.red {
+    border-color: red;
+}
+
+.subject.blue {
+    border-color: blue;
+}
+
+.subject.orange {
+    border-color: orange;
+}
+
+.subject.green {
+    border-color: green;
+}
+
+/* Định dạng ô trống */
+.schedule .empty {
+    background-color: #f9f9f9;
+}
+
+/* Bảng thời khóa biểu */
+#scheduleTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#scheduleTable th,
+#scheduleTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+#scheduleTable thead th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+}
+
+.weekday-cell {
+    background-color: #e3f2fd;
+}
+
+.date-cell {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.subject {
+    background-color: #e8f5e9;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.subject:hover {
+    background-color: #c8e6c9;
+}
+
+/* Calendar styles */
+.calendar-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.calendar-days table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.calendar-days th,
+.calendar-days td {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+.calendar-days th {
+    background-color: #f8f9fa;
+}
+
+/* Form styles */
+.form-add-schedule {
+    margin-top: 2rem;
+}
+
+.form-add-schedule div {
+    margin-bottom: 1rem;
+}
+
+.form-add-schedule label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.form-add-schedule input,
+.form-add-schedule select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#addSchedule {
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+#addSchedule:hover {
+    background-color: #1557b0;
+}
+
+/* Modal styles */
+.modal {
+    display: none; /* Ẩn modal mặc định */
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền mờ */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.modal.show {
+    display: block;
+    opacity: 1;
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 500px;
+    position: relative;
+    transform: translateY(-20px);
+    transition: transform 0.3s ease;
+}
+
+.modal.show .modal-content {
+    transform: translateY(0);
+}
+
+/* Nút đóng modal */
+.close {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #666;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #333;
+}
+
+/* Style cho nội dung trong modal */
+.modal-content h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.modal-content p {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+.modal-content strong {
+    color: #1a73e8;
+}
+
+/* Nút xóa trong modal */
+.delete-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.2s;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
+
+/* Responsive design */
+@media (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        width: 100%;
+    }
+}
+
+/* Style cho tiêu đề h2 */
+.schedule h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    text-transform: uppercase;
+}
+
+/* Style cho phần thông tin giảng viên */
+.schedule > div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.schedule label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#teacherName {
+    font-size: 18px;
+    padding: 5px 0px;
+    border: none;
+    background: transparent;
+    text-align: center;
+    font-weight: 500;
+    color: #1a73e8;
+}
